@@ -148,5 +148,5 @@ train_cifar10(
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-
+**作者**：Xinyuan Liu
 **参考**: SkyXZ 
